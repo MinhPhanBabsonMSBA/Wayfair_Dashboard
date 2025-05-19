@@ -1,6 +1,6 @@
 (Read the final report bellow)
 
-![](https://github.com/MinhPhanBabsonMSBA/Wayfair-Case-study/blob/main/wayfair%20logo.png)
+![](https://github.com/MinhPhanBabsonMSBA/Wayfair_Dashboard/blob/main/wayfair%20logo.png)
 
 # Wayfair Return Optimization & Customer Segmentation Case Study 
 
