@@ -4,6 +4,8 @@
 
 # Wayfair Return Optimization & Customer Segmentation Case Study 
 
+## [Click here for Streamlit Dashboard](https://wayfairdashboard-bndn8kw8dcf3lvrbkex5mx.streamlit.app/)
+
 ## Executive Summary  
 Wayfair engaged in an in-depth analysis to investigate how delivery performance, guarantee visibility, and customer behaviors influence product returns and revenue outcomes. Using December 2016 order-level data comprising over 123,000 observations, the analysis identified operational inefficiencies and customer segments that disproportionately impact profitability. Predictive models and cost estimators were layered onto segmentation to generate a holistic strategy using the BCG matrix.
 
